@@ -203,6 +203,7 @@ export const arrActiveLangs = [
     { code: 'ph', display: 'Filipino', emoji: '🇵🇭' },
     { code: 'hi', display: 'Hindi', emoji: '🇮🇳' },
     { code: 'uwu', display: 'UwU', emoji: '🐈' },
+	{ code: 'ru', display: 'Русский', emoji: 'RU' },
 ];
 
 export async function start() {
